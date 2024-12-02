@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  [Brainrot Twitter](https://x.com/aibrainrot) | [Brainrot Website](https://www.aibrainrot.com/)
+  [Brainrot Twitter](https://x.com/AiBrainrot_) | [Brainrot Website](https://aibrainrot.me/)
   
 </div>
 
