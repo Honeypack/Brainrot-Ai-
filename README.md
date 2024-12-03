@@ -1,7 +1,7 @@
 # ️‍🔥 Brainrot AI ️‍🔥
 
 <div align="center">
-  <img src="brainrot_banner.png" alt="brainrot_banner" width="100%" />
+  <img src="brainrotbanner.png" alt="brainrotbanner" width="100%" />
 </div>
 
 <div align="center">
